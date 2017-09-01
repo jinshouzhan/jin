@@ -11,7 +11,11 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
+/**
+*author: jinshouzhan
+*email: jsz.2008@163.com
+*qq: 330580
+*/
 public class MagicCube implements Serializable{
 	private static final long serialVersionUID = 1L;
 	
