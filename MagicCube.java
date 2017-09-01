@@ -15,6 +15,7 @@ import java.util.Map;
 *author: jinshouzhan
 *email: jsz.2008@163.com
 *qq: 330580
+*just for interest
 */
 public class MagicCube implements Serializable{
 	private static final long serialVersionUID = 1L;
